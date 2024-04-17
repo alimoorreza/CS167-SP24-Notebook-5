@@ -1,4 +1,4 @@
-# Notebook \#6
+# Notebook \#5
 Deep learning with MLP and CNN for an image recognition task. 
 
 ## The Data: 📊
